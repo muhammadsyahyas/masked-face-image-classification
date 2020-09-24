@@ -2,6 +2,8 @@
 
 ## Supplementary learning material
 
+Supplementary material of [a topic in public talks](https://github.com/muhammadsyahyas/masked-face-image-classification/blob/master/AI%20Solution%20to%20Fight%20Today's%20Pandemic%20-%20Shalahuddin%20Yahya%20%40%20Hacktiv8%2C%2011-06-2020.pdf).
+
 Created by Muhammad Shalahuddin Yahya Sunarko
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
